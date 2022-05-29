@@ -1,0 +1,19 @@
+.button404 {
+  color: #0070f3;
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.container404 {
+  min-height: 75vh;
+  flex: 1 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header404 {
+  color: red;
+}

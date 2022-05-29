@@ -1,0 +1,43 @@
+.productPage {
+  min-height: 80vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.productItem {
+  height: 120px;
+  width: 500px;
+  border: 2px solid black;
+  margin: 16px;
+}
+
+.productItem:hover {
+  border: 2px solid blue;
+}
+
+.productImage {
+  float: right;
+  width: 118px;
+  height: 116px;
+}
+
+.productTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.productDetailContainer{
+  min-height: 80vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

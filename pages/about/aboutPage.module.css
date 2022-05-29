@@ -1,8 +1,4 @@
-.container {
-  padding: 0 2rem;
-}
-
-.main {
+.aboutPage{
   min-height: 80vh;
   padding: 4rem 0;
   flex: 1;
